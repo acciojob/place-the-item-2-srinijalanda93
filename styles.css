@@ -1,2 +1,43 @@
+*{
+	padding:0px;
+	margin:0px;
+}
 
-/* Your CSS Code here. */
+#box{
+	width:500px;
+	height:500px;
+	background-color:hotpink;
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+
+#eg1{
+	width:50px;
+	height:50px;
+	background-color:red;
+	
+}
+#eg2{
+	width:50px;
+	height:50px;
+	background-color:green;
+	
+}#eg3{
+	width:50px;
+	height:50px;
+	background-color:white;
+	
+}
+#eg4{
+	width:50px;
+	height:50px;
+	background-color:lightgreen;
+	
+}
+#eg5{
+	width:50px;
+	height:50px;
+	background-color:lightpink;
+	
+}
